@@ -1,0 +1,4 @@
+baseURL = "https://blog.rodrigogarcia.me/"
+languageCode = "en-us"
+title = "My Blog"
+theme = "ananke"
