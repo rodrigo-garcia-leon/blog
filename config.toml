@@ -1,4 +1,18 @@
 baseURL = "https://blog.rodrigogarcia.me/"
 languageCode = "en-us"
 title = "My Blog"
-theme = "ananke"
+theme = "archie"
+
+[params]
+mode = "dark"
+useCDN = false
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/rodrigo-garcia-leon"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/garcialeonrodri/"
