@@ -15,4 +15,14 @@ url = "https://github.com/rodrigo-garcia-leon"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/garcialeonrodri/"
+url = "https://twitter.com/garcialeonrodri"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/rodrigogarcialeon"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/rgarcialeon"
